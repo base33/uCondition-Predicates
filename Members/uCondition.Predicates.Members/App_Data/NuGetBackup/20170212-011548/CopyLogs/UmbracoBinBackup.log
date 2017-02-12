@@ -1,0 +1,28 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 12 February 2017 01:15:48
+   Source : C:\users\nobby\documents\visual studio 2015\Projects\TestCondition1\uCondition.Predicates.Members\bin\
+     Dest : C:\users\nobby\documents\visual studio 2015\Projects\TestCondition1\uCondition.Predicates.Members\App_Data\NuGetBackup\20170212-011548\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\users\nobby\documents\visual studio 2015\Projects\TestCondition1\uCondition.Predicates.Members\bin\
+	  New Dir          0	C:\users\nobby\documents\visual studio 2015\Projects\TestCondition1\uCondition.Predicates.Members\bin\Debug\
+	  New Dir          0	C:\users\nobby\documents\visual studio 2015\Projects\TestCondition1\uCondition.Predicates.Members\bin\Release\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         2         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 12 February 2017 01:15:48
+
